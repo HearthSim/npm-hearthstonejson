@@ -1,0 +1,19 @@
+{
+  "name": "hearthstonejson",
+  "version": "0.8.0",
+  "description": "The HearthstoneJSON data, as installable npm package.",
+  "keywords": [
+    "hearthstone",
+    "hsjson"
+  ],
+  "homepage": "https://github.com/HearthSim/npm-hearthstonejson#readme",
+  "bugs": {
+    "url": "https://github.com/HearthSim/npm-hearthstonejson/issues"
+  },
+  "license": "ISC",
+  "author": "Benedict Etzel <benedict@hearthsim.net>",
+  "main": "index.js",
+  "repository": "git@github.com:HearthSim/npm-hearthstonejson.git",
+  "dependencies": {},
+  "sideEffects": false
+}
